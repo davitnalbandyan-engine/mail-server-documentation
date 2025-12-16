@@ -752,7 +752,7 @@ The project is shared for educational purposes.
 Reuse, modification, and redistribution are permitted under the terms of the **MIT License**,  
 provided proper attribution is given to the author and Terminal NES.
 
-© 2025 Davit Nalbandyan — Terminal NES
+© 2025 Nalbandyan Davit — Terminal NES
 
 
 
