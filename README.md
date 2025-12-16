@@ -21,3 +21,6 @@ All configuration examples are **sanitized** and safe for public reference.
 
 This project is licensed under the **MIT License**.  
 See the [LICENSE](LICENSE) file for details.
+
+
+Terminal NES (Nalbandyan Engineering Solutions) is an independent engineering initiative, with formal registration planned.
